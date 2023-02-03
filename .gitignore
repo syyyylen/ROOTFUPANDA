@@ -80,11 +80,11 @@ DerivedDataCache/*
 /ROOTFUPANDA_BP/.vs
 /ROOTFUPANDA_BP/.idea
 
-/ROOTFUPANDA/Saved
-/ROOTFUPANDA/Intermediates
-/ROOTFUPANDA/Binaries
-/ROOTFUPANDA/.vs
-/ROOTFUPANDA/.idea
+/ROOTFUPANDA_TROIS/Saved
+/ROOTFUPANDA_TROIS/Intermediates
+/ROOTFUPANDA_TROIS/Binaries
+/ROOTFUPANDA_TROIS/.vs
+/ROOTFUPANDA_TROIS/.idea
 
 **/Intermediate
 **/Binaries
