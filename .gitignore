@@ -72,3 +72,14 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+
+/ROOTFUPANDA/Saved
+/ROOTFUPANDA/Intermediates
+/ROOTFUPANDA/Binaries
+/ROOTFUPANDA/.vs
+/ROOTFUPANDA/.idea
+
+**/Intermediate
+**/Binaries
+
