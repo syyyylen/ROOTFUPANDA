@@ -74,6 +74,12 @@ Plugins/*/Intermediate/*
 DerivedDataCache/*
 
 
+/ROOTFUPANDA_BP/Saved
+/ROOTFUPANDA_BP/Intermediates
+/ROOTFUPANDA_BP/Binaries
+/ROOTFUPANDA_BP/.vs
+/ROOTFUPANDA_BP/.idea
+
 /ROOTFUPANDA/Saved
 /ROOTFUPANDA/Intermediates
 /ROOTFUPANDA/Binaries
