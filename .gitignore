@@ -89,3 +89,7 @@ DerivedDataCache/*
 **/Intermediate
 **/Binaries
 
+
+ROOTFUPANDA_TROIS/Config/DefaultEngine.ini
+
+ROOTFUPANDA_TROIS/Config/DefaultGame.ini
